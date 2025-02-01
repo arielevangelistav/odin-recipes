@@ -1,0 +1,30 @@
+body{
+    background: lightgray;
+    max-width: 1200px;
+}
+
+.header{
+    background: gray;
+    color: white;
+    margin: 10px 0px 0 200px;
+    padding: 10px;
+}
+
+.logo{
+    margin: 20px;
+    padding: 10px;
+}
+
+.menu li{
+    text-decoration: none;
+    display: inline;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+.menu li a:hover{
+    color: lightgray;
+}
